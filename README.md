@@ -6,7 +6,7 @@ I work closely with all parts of the IT world, from software design to its imple
 
 My current work focus is technology research and development, with a particular attention to GitOps, DevOps and dynamically scalable infrastructures with Kubernetes.
 
-You wont find much here, as i have a separate work github account which is where i mostly code, and my personal projects are mostly private, but feel free to look in to what is public!
+You wont find much here, as i have a separate work github account which is where i mostly code, and my personal projects are almost all private, but feel free to look in to what is public!
 
 You can reach me out on my personal website or my linkedin profile, both linked in the social sidebar on this github profile.
 
